@@ -1,15 +1,16 @@
 # BUILD 2025: What's New In Snowsight
 
-Session Info: https://www.snowflake.com/en/build/americas/agenda?agendaPath=session/1752992 
+Session Info: [Agenda](https://www.snowflake.com/en/build/americas/agenda?agendaPath=session/1752992&utm_campaign=build25-snowsight-whatsnew)
 
 This is the companion repository to Snowsight What's New Session at BUILD 2025. 
 
 ### Cost Management and Tag Based Budgets:
-* [Cost Management Documentation](https://docs.snowflake.com/en/user-guide/cost-management-overview)
-* [Getting started with tag based budgets](https://www.snowflake.com/en/engineering-blog/tag-based-budgets-cost-attribution/)
+* [Cost Management Documentation](https://docs.snowflake.com/en/user-guide/cost-management-overview&utm_campaign=build25-snowsight-whatsnew)
+* [Getting started with tag based budgets](https://www.snowflake.com/en/engineering-blog/tag-based-budgets-cost-attribution/?utm_campaign=build25-snowsight-whatsnew)
+* [Visit Cost Management in your Snowflake Account](https://app.snowflake.com/_deeplink/#/account/usage?utm_campaign=build25-snowsight-whatsnew)
 
 ### Cortex Code
-* [About Cortex Code](https://www.snowflake.com/en/news/press-releases/snowflake-unveils-new-developer-tools-to-supercharge-enterprise-grade-agentic-ai-development/)
+* [About Cortex Code](https://www.snowflake.com/en/news/press-releases/snowflake-unveils-new-developer-tools-to-supercharge-enterprise-grade-agentic-ai-development/?utm_campaign=build25-snowsight-whatsnew)
 * Prompts:
 
 ```
@@ -26,14 +27,17 @@ and give me recommendations for securing the data.
 ```
 
 ### Workspaces
-* [About Workspaces](https://www.snowflake.com/en/blog/workspaces-ga-sql-development/)
+* [About Workspaces](https://www.snowflake.com/en/blog/workspaces-ga-sql-development/?utm_campaign=build25-snowsight-whatsnew)
 * [Zero to Snowflake Example](https://github.com/Snowflake-Labs/sfguide-getting-started-from-zero-to-snowflake)
+* [Try Workspaces in your Snowflake Account](https://app.snowflake.com/_deeplink/#/workspaces?utm_campaign=build25-snowsight-whatsnew)
 
 ### dbt Projects on Snowflake
-* [Getting started with dbt Projects on Snowflake](https://www.snowflake.com/en/developers/guides/dbt-projects-on-snowflake/)
+* [Getting started with dbt Projects on Snowflake](https://www.snowflake.com/en/developers/guides/dbt-projects-on-snowflake/?utm_campaign=build25-snowsight-whatsnew)
 * [Jaffle Shop](https://github.com/dbt-labs/jaffle-shop-classic?tab=readme-ov-file)
+* [Try dbt Projects in your Snowflake Account](https://app.snowflake.com/_deeplink/#/workspaces?utm_campaign=build25-snowsight-whatsnew)
 
 ### Horizon Catalog
-* [About Horizon Catalog](https://www.snowflake.com/en/product/features/horizon/)
+* [About Horizon Catalog](https://www.snowflake.com/en/product/features/horizon/?utm_campaign=build25-snowsight-whatsnew)
+* [Check out Horizon Catalog in your Snowflake Account](https://app.snowflake.com/_deeplink/#/data/databases?utm_campaign=build25-snowsight-whatsnew)
 
 
