@@ -28,6 +28,7 @@ and give me recommendations for securing the data.
 
 ### Workspaces
 * [About Workspaces](https://www.snowflake.com/en/blog/workspaces-ga-sql-development/?utm_campaign=build25-snowsight-whatsnew)
+* [Workspaces Sharing (PrPr)](https://docs.snowflake.com/LIMITEDACCESS/workspaces-shared?utm_campaign=build25-snowsight-whatsnew)
 * [Zero to Snowflake Example](https://github.com/Snowflake-Labs/sfguide-getting-started-from-zero-to-snowflake)
 * [Try Workspaces in your Snowflake Account](https://app.snowflake.com/_deeplink/#/workspaces?utm_campaign=build25-snowsight-whatsnew)
 
